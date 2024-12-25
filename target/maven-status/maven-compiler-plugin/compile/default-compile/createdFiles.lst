@@ -1,0 +1,16 @@
+otel_model_classes\Customer.class
+otel_model_classes\DatabaseConnection.class
+otel_model_classes\RegisterCustomer.class
+otel_model_classes\HotelMergeCategory.class
+otel_model_classes\Hotel.class
+otel_model_classes\HotelMergeCity.class
+otel_model_classes\HotelMergeRooms.class
+com\mycompany\otel_proje\resources\JakartaEE10Resource.class
+com\mycompany\otel_proje\JakartaRestConfiguration.class
+otel_model_classes\HotelFeatures.class
+otel_model_classes\Reservation.class
+otel_model_classes\UserSession.class
+otel_model_classes\CustomerDataAccess.class
+otel_model_classes\Profil.class
+otel_model_classes\AllHotelsAndAllRooms.class
+otel_model_classes\HotelMergeImages.class
